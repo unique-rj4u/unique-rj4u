@@ -64,12 +64,6 @@
 <p align="left">
 <a href="https://linktr.ee/Dhiraj.Sahani" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/linktree.png" alt="unique_rj4u" height="40" width="40"/></a>
 <a href="https://stackoverflow.com/users/13970839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13970839" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/13970839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13970839" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/13970839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13970839" height="30" width="40" /></a>
-
-
 <a href="https://twitter.com/unique_rj4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unique_rj4u" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhirajsahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajsahani" height="30" width="40" /></a>
 <a href="https://fb.com/unique.rj4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unique.rj4u" height="30" width="40" /></a>
