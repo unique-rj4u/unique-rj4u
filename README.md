@@ -38,7 +38,7 @@
 <br/>
 
 <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unique-rj4u&theme=github_dark" alt="unique-rj4u" align = "center"/></p>
+<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unique-rj4u&theme=github_dark" alt="unique-rj4u" align = "center"/></p>
 
 
 <p align="center">
@@ -61,6 +61,9 @@
 
 <a href="https://activity-graph.herokuapp.com/graph?username=unique-rj4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" ><img alt="Dhiraj Sahani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=unique-rj4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/unique-rj4u"><img src="https://github-profile-trophy.vercel.app/?username=unique-rj4u&margin-w=5&theme=radical" alt="unique-rj4u" /></a> </p>
+
 <br/>
 <br/>
 
@@ -74,8 +77,7 @@
 <a href="https://instagram.com/unique_rj4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unique_rj4u" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCdeRELeuZpVwKsS3e-LjLDQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unique_rj4u" height="30" width="40" /></a>
     
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/unique-rj4u"><img src="https://github-profile-trophy.vercel.app/?username=unique-rj4u&margin-w=5&theme=radical" alt="unique-rj4u" /></a> </p>
+ 
 
 </p>
 
