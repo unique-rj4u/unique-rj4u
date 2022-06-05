@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">𝓗𝓲 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 𝓘'𝓶 "𝐃𝐡𝐢𝐫𝐚𝐣 𝐒𝐚𝐡𝐚𝐧𝐢"</h1>
+<h1 align="center">𝓗𝓲 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, 𝓘'𝓶 "𝐃𝐡𝐢𝐫𝐚𝐣 𝐒𝐚𝐡𝐚𝐧𝐢"</h1>
 <h3 align="center">𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚.</h3>
 
 
