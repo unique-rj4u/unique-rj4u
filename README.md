@@ -14,6 +14,8 @@
 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **unique.rj4u@gmail.com**
 
+- - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1HeQjtWo8dOk1epbwg6T6B6_DDmwu0mhU/view?usp=sharing)
+
 ## 🚀 Languages:
 
 <p align="left"> 
