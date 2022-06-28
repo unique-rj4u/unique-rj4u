@@ -3,7 +3,7 @@
 
   </a>
 <h1 align="center"><a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Lemonada&duration=2500&color=1FE5F7&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Hello%2C+There!%F0%9F%91%8BThis+is+%22Dhiraj+Sahani%22....;+;%F0%9D%90%80+%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%9F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6+%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9A." height="150"width="600">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Lemonada&duration=2500&color=1FE5F7&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Hello%2C+There!%F0%9F%91%8BThis+is+%22Dhiraj+Sahani%22....;+;%F0%9D%90%80+%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%9F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6+%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9A." height="100"width="600">
   </a></h1>
 
 
