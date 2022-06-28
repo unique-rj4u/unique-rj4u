@@ -1,7 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">𝓗𝓲 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, 𝓘'𝓶 "𝐃𝐡𝐢𝐫𝐚𝐣 𝐒𝐚𝐡𝐚𝐧𝐢"</h1>
-<h3 align="center">𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚.</h3>
+
+  </a>
+<h1 align="center"><a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Lemonada&duration=2500&color=1FE5F7&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Hello%2C+There!%F0%9F%91%8BThis+is+%22Dhiraj+Sahani%22....;+;%F0%9D%90%80+%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%9F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6+%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%9A." height="150"width="600">
+  </a></h1>
 
 
 ## 🙋‍♂️ About Me
