@@ -25,7 +25,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/></a>
-   ![png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo]()
 
     
 </p>  
