@@ -24,22 +24,51 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/></a>
+   ![png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo]()
+
+    
+</p>  
+
+## ⭕ Data Management:
+<p align="left">
+  <a> <img src="https://user-images.githubusercontent.com/65718960/227547803-299bc844-7634-4ad7-92e3-11873ae58fef.png" width="40"></a>
+  <a href="https://www.freepnglogos.com/pics/logo-mysql" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="40" alt="logo mysql, mysql logo png images are download crazypng" /></a>
+  <a title="Part of the SQLite documentation, which has been released by author D. Richard Hipp to the public domain. SVG conversion by Mike Toews., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SQLite370.svg"><img width="80" alt="SQLite370" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/256px-SQLite370.svg.png"></a>
+  
+
+</p>
+
+## 🕸 Web Technologies:
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/> </a>
-</p>   
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+</p> 
+
+## 🔖 Libraries:
+<p align="left">
+  <a> <img src="https://user-images.githubusercontent.com/65718960/227541369-74127e3a-5ac6-48a5-97cd-150e765ca447.png" width="40"></a>
+  <a> <img src="https://user-images.githubusercontent.com/65718960/227542074-28cd2251-72dc-4c30-a1fd-e5f25fa96290.png" width="40"></a>
+  <a> <img src="https://user-images.githubusercontent.com/65718960/227542579-0d0f661f-1f2d-44c0-b991-e54517d66230.png" width="40"></a>
+<a> <img src="https://user-images.githubusercontent.com/65718960/227543277-1d481be5-3e6a-4133-9cd5-fa8335dffde0.png" width="40"></a>
+<a> <img src="https://user-images.githubusercontent.com/65718960/227543495-d96e7090-6ec8-4270-9776-60dfe2935b5e.png" width="80"></a>
+  <a> <img src="https://user-images.githubusercontent.com/65718960/227544234-4fc65b72-1573-4a59-bd06-a21aeec79c86.png" width="40"></a>
+   <a> <img src="https://user-images.githubusercontent.com/65718960/227540120-b6701616-e94e-4a69-9eed-9046f60df593.svg" width="30"></a>
+
+</p>
+
 
 ## 🧰 Tools:
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" margin="20" padding="30"/> </a>  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40" margin="20" padding="30"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/> </a>
+      <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="canva" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" margin="20" padding="30"/> </a>
     <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="photoshop" width="40" height="40" margin="20" padding="50"/> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40" margin="20" padding="30"/> </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
-    <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="canva" width="40" height="40"/> </a>
+
 </p> 
     
 
