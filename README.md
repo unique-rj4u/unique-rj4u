@@ -1,5 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=10000&section=header&text=Dhiraj%20Sahani&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descAlignY=60&descAlign=70)
 
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
   </a>
 <h1 align="center"><a href="https://git.io/typing-svg">
