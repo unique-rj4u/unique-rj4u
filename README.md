@@ -11,13 +11,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 **𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 **𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 "Data Science"**
 
-- 👨‍💻 𝙰𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚊𝚝 [https://github.com/unique-rj4u](https://github.com/unique-rj4u?tab=projects)
+- 👨‍💻 𝙰𝚕𝚕 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚊𝚝 **[Here 📍](https://github.com/unique-rj4u?tab=repositories)**
 
-- 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 [https://unique-rj4u.blogspot.com/](https://unique-rj4u.blogspot.com/)
+- 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 **[https://unique-rj4u.blogspot.com/](https://unique-rj4u.blogspot.com/)**
 
-- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **unique.rj4u@gmail.com**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **rjsahanidhiraj44444@gmail.com**
 
 - :paperclip: **[My Resume/CV](https://drive.google.com/file/d/1HeQjtWo8dOk1epbwg6T6B6_DDmwu0mhU/view?usp=sharing)**
 
