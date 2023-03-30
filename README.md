@@ -19,7 +19,7 @@
 
 - :paperclip: **[My Resume/CV](https://drive.google.com/file/d/1HeQjtWo8dOk1epbwg6T6B6_DDmwu0mhU/view?usp=sharing)**
 
-## 🚀 Languages:
+## 👩‍💻 Languages:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
