@@ -98,11 +98,16 @@
 <h2>🔎 Github Profile Details</h2>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unique-rj4u&theme=github_dark" alt="unique-rj4u" align = "center"/></p>
 
+
+## 📊 My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/unique-rj4u?theme=dark&font=Sanchez&ext=heatmap)
+
 <h2>🏆 Github Achievements</h2>
 <p align="center"> <a href="https://github.com/unique-rj4u"><img src="https://github-profile-trophy.vercel.app/?username=unique-rj4u&margin-w=5&theme=radical" alt="unique-rj4u" /></a> </p>
 
 <br/>
 <br/>
+
 
 ## Connect with me:
 <p align="left">
