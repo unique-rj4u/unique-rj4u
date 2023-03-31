@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Dhiraj%20Sahani&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descAlignY=60&descAlign=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:1aa3ff&height=260&section=header&text=Dhiraj%20Sahani&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descAlignY=60&descAlign=68)
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
