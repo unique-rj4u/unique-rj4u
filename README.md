@@ -102,14 +102,10 @@
 
 
 ## 📊 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/unique-rj4u?theme=dark&font=Sanchez&ext=heatmap)
+<p align="center"><img height="300em" src="https://leetcard.jacoblin.cool/unique-rj4u?theme=dark&font=Sanchez&ext=heatmap" alt="unique-rj4u" align = "center"/></p>
 
 <h2>🏆 Github Achievements</h2>
-<p align="center"> <a href="https://github.com/unique-rj4u"><img src="https://github-profile-trophy.vercel.app/?username=unique-rj4u&margin-w=5&theme=radical" alt="unique-rj4u" /></a> </p>
-
-<br/>
-<br/>
-
+<p align="left"> <a href="https://github.com/unique-rj4u"><img src="https://github-profile-trophy.vercel.app/?username=unique-rj4u&margin-w=5&column=7&theme=radical" alt="unique-rj4u" /></a> </p>
 
 ## 🤝 Connect with me:
 <p align="left">
